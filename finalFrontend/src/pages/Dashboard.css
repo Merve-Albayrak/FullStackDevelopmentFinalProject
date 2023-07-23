@@ -1,0 +1,52 @@
+/* Page.css */
+
+/* Navbar */
+.ui.menu {
+    background-color: #333;
+    color: #fff;
+}
+
+.ui.menu .item {
+    font-size: 16px;
+}
+
+.ui.menu .item.active {
+    background-color: #555;
+}
+
+.ui.menu .item:not(.active):hover {
+    background-color: #555;
+}
+
+.ui.menu .item button {
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+/* Form */
+.ui.form {
+    max-width: 500px;
+    margin: 30px auto;
+}
+
+.ui.form .field label {
+    font-size: 16px;
+}
+
+.ui.form .field input,
+.ui.form .field .menu {
+    font-size: 16px;
+}
+
+.ui.form .field input[type='number'] {
+    width: 120px;
+}
+
+.ui.form .field .menu .item {
+    font-size: 16px;
+}
+
+.ui.form button {
+    margin-top: 20px;
+}

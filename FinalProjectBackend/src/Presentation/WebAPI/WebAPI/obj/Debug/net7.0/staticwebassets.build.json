@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "E9R4dwwiqVibr0yysCfRpNt4zMU3js/RlVTmE22P9Co=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\merve\\source\\repos\\FinalProject\\src\\Presentation\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\merve\\source\\repos\\FinalProject\\src\\Presentation\\WebAPI\\WebAPI\\wwwroot\\email_templates\\email_confirmation.html",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\merve\\source\\repos\\FinalProject\\src\\Presentation\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "email_templates/email_confirmation.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\email_templates\\email_confirmation.html"
+    }
+  ]
+}
